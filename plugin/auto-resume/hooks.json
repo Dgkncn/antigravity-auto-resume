@@ -1,0 +1,19 @@
+{
+  "auto-resume-on-filter": {
+    "enabled": true,
+    "PostInvocation": [
+      {
+        "type": "command",
+        "command": "py ./auto_resume_hook.py",
+        "timeout": 8
+      }
+    ],
+    "Stop": [
+      {
+        "type": "command",
+        "command": "py ./auto_resume_hook.py",
+        "timeout": 8
+      }
+    ]
+  }
+}
