@@ -1,0 +1,7 @@
+{
+  "name": "auto-resume",
+  "displayName": "Auto Resume on Filter/Stream Interrupt",
+  "version": "1.1.0",
+  "description": "Detects 'This request was blocked by Gemini's filters' or stream interruptions in transcript.jsonl and coordinates with agy_auto_resume_watcher.py for automatic resume & 3-model rotation.",
+  "disabled": false
+}
