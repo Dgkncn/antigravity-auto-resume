@@ -126,8 +126,7 @@ python agy_auto_resume_watcher.py --rotate-window 180 --rotate-hits 2 --max-retr
 ---
 
 ## 📬 联系方式与问题反馈
-
-- **有任何问题联系推特**：**[https://x.com/zixunclub](https://x.com/zixunclub)**
+**社区推广**：liunx.do
 - 如果这个项目帮你省下了盯屏点继续的时间，欢迎给仓库点个 ⭐ **Star**！
 
 ---
